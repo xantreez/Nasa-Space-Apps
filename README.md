@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Junior Astronaut: Moon Outpost — NASA Space Apps 2026
 
 Онлайн: https://tobish.netlify.app  (и https://edu-space.io/game)
@@ -26,7 +25,3 @@
 
 Ключи API в архив не входят — для скриптов генерации нужен свой `.env`
 (ELEVENLABS_API_KEY, FAL_KEY).
-=======
-# junior-astronaut
-Junior Astronaut Moon Outpost
->>>>>>> 64effa87d5f7da8c54f6c27a65b091f77212e918
